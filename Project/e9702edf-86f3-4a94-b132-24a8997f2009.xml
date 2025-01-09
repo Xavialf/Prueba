@@ -1,1 +1,1 @@
-﻿{"CLs":[{"__type":"F","In":[{"__type":"PF","Arg":"EN"}],"Ix":1,"Name":"Get1sClk","Out":[{"__type":"PF","Arg":""}]},{"__type":"ST","Var":"Q00","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+﻿{"CLs":[{"__type":"LD","Var":"P_On"},{"__type":"F","In":[{"__type":"PF","Arg":"EN"}],"Ix":2,"Name":"Get1sClk","Out":[{"__type":"PF","Arg":""}],"X":1},{"__type":"ST","Ix":1,"Var":"Q00","X":2}],"LRI":3,"RRI":4,"VLs":[]}
